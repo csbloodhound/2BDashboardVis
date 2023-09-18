@@ -7,7 +7,7 @@
 </p>
 
 <p>
-    If you consider visiting the site without vpn ot proxy, please waite for 20 seconds after clicking  "Check Here" twice.
+    If you consider visiting the site without vpn ot proxy, please waite for 20 seconds after clicking  "Check Demo“ twice.
 </p>
 
 <p>
@@ -19,5 +19,5 @@
 </p>
 
 <p>
-    如果您考虑直接访问, 在点击两次"Check Here"后, 请稍等20秒。
+    如果您考虑直接访问, 在点击两次"Check Demo“后, 请稍等20秒。
 </p>
