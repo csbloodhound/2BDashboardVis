@@ -85,7 +85,7 @@
 					values: (d) => d.first_party
 				},
 				conditions: {
-					minAreaSize: 2,
+					minAreaSize: 1.5,
 					maxAspectRatioDiff: arConditions ? 2 : false
 				},
 				viewSugData: {
@@ -107,8 +107,8 @@
 					colorScale: colorScale
 				},
 				conditions: {
-					minHexSize: 5,
-					maxAspectRatioDiff: arConditions ? 2 : false
+					minHexSize: 6.5,
+					maxAspectRatioDiff: arConditions ? 1 : false
 				},
 				viewSugData: {
 					viewName: "HexMap",

@@ -18,20 +18,24 @@
 	<p>
 		Resize the container using the handle in the botton right and watch the visualization update
 			(Chrome/Firefox only).
-
-
-	<!-- 
-		<ul>	
-			<li>width: {width} px</li>
-			<li>height: {height} px</li>
-			<li>Aspect ratio: {divAR}</li>
-			<li>Area: {divArea} px</li>
-			<li />
-		</ul>
-	-->		
+	</p>
 
 	<p>
-		<Checkbox labelText="Show view landscape overlay" bind:checked={landscapeOverlay} id="overlay"/>
+		拖拽画布右下方的来观察可视化在不同尺寸下的变化 (推荐使用Chrome/Firefox浏览器).
+	</p>
+
+	<br>
+
+	<ul>	
+		<li>width : {width} px</li>
+		<li>height : {height} px</li>
+		<li>Aspect ratio : {divAR}</li>
+		<li />
+	</ul>
+	
+
+	<p>
+		<Checkbox labelText="Show Breakpoints (显示断点)" bind:checked={landscapeOverlay} id="overlay"/>
 	</p>
 </div>
 

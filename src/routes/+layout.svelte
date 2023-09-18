@@ -19,8 +19,8 @@
 <div id="header">
 	<h1>Data-driven Breakpoints for Responsive Visualization</h1>
 	<div>
-		<a href="{base}/demos/full-control">comprehensive control</a>
-		<a href="{base}/demos/half-control">partial control</a>
+		<!-- <a href="{base}/demos/full-control">comprehensive control</a> -->
+		<a href="{base}/demos/half-control">Check Here</a>
 	</div>
 </div>
 
